@@ -1,5 +1,5 @@
-<h3 align="right">ruMTUSI</h3>
-<h5 align="right"><i>myLabs</i></h5>
+<h3 align="center">ruMTUSI</h3>
+<h6 align="center"><i>myLabs</i></h6>
 <hr />
  <p align="left">
   <nobr><strong><i>Технологии разработки программного обеспечения</i></strong></nobr>

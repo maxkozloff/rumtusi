@@ -1,4 +1,4 @@
-<h6 align="right">ruMTUSI / <i>myLabs</i></h6>
+<h6 align="right">rumtuci / <i>myLabs</i></h6>
 <hr />
  <p align="left">
   <nobr><strong><i>Технологии разработки программного обеспечения</i></strong></nobr>

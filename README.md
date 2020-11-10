@@ -1,2 +1,12 @@
-<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
-<h3 class="text-info">mtusi</h3>
+  <div style="text-align: right"> your-text-here </div>
+  <nobr>Технологии разработки программного обеспечения</nobr>
+  <br />
+  МБД2031
+  <br />
+  <nobr>Козлов Максим Валерьевич</nobr>
+  </blockquote>
+<h3>ruMTUSI</h3>
+<h5><i>myLabs</i></h5>
+<hr />
+<h5><i>Лабораторная работа # 1</i></h5>
+<p><p>

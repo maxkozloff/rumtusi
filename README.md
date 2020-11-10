@@ -2,7 +2,7 @@
 <h5 align="right"><i>myLabs</i></h5>
 <hr />
  <p align="left">
-  <nobr><h5><i>Технологии разработки программного обеспечения</i></h5></nobr>
+  <nobr><strong><i>Технологии разработки программного обеспечения</i></strong></nobr>
 
   <nobr><strong><i>Лабораторная работа #1:</i></strong></nobr>
   <br />

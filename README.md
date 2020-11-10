@@ -1,4 +1,4 @@
-  <div style="text-align: right"> your-text-here </div>
+  <blockquote align="right">
   <nobr>Технологии разработки программного обеспечения</nobr>
   <br />
   МБД2031
